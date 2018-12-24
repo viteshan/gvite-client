@@ -4,3 +4,5 @@ update `RawUrl` and `WalletDir` and `Entropy Mnemonic` in main.go
 
 > go build main.go
 > ./main
+
+more see: https://github.com/vitelabs/go-vite/blob/gvite-client/client/client_test.go
